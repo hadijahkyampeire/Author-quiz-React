@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import AuthorQuiz from './Author';
-import registerServiceWorker from './registerServiceWorker';
 import {shuffle, sample} from 'underscore';
 
 const authors =[
